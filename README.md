@@ -1,6 +1,6 @@
 # On-the-Job Training Management System
 
-A desktop application built with **Flutter** and **Dart**, using **Sqflite** as the local database. This system is designed to manage student OJT (On-the-Job Training) records, generate official documents such as certificates, and provide data export functionalities.
+A desktop application built with **Flutter** and **Dart**, using **Sqflite** as the local database. This system is designed to manage student OJT (On-the-Job Training) records, generate official documents such as certificates,generate a qr code for the certificates, and provide data export functionalities.
 
 ---
 
