@@ -29,15 +29,6 @@ A desktop application built with **Flutter** and **Dart**, using **Sqflite** as 
 
 ---
 
-## 📁 Folder Structure
-
-lib/
-├── main.dart
-├── db/ # Database helper classes
-├── models/ # Student and QR models
-├── screens/ # All UI pages (Home, Input, QR Code, Certificate, etc.)
-├── utils/ # Helper functions (PDF, QR, Excel, Google Drive)
-
 ## 📦 Setup Instructions
 
 Ensure you've set up:
